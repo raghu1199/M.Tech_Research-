@@ -1,3 +1,0 @@
-package testwireless;
-
-@license(LGPL);
