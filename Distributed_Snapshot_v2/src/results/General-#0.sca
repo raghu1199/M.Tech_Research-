@@ -1,0 +1,35 @@
+version 3
+run General-0-20230307-19:56:10-14493
+attr configname General
+attr datetime 20230307-19:56:10
+attr datetimef 20230307-195610
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Wireless
+attr processid 14493
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network Wireless
+
+par Wireless.server typename "\"testwireless.Server\""
+par Wireless.node0 typename "\"testwireless.Node\""
+par Wireless.node1 typename "\"testwireless.Node\""
+par Wireless.node2 typename "\"testwireless.Node\""
+par Wireless.node3 typename "\"testwireless.Node\""
+par Wireless.node4 typename "\"testwireless.Node\""
+par Wireless.node5 typename "\"testwireless.Node\""
+par Wireless.node6 typename "\"testwireless.Node\""
+par Wireless.node7 typename "\"testwireless.Node\""
+par Wireless.node8 typename "\"testwireless.Node\""
+par Wireless.node9 typename "\"testwireless.Node\""
+par Wireless.node10 typename "\"testwireless.Node\""
+par Wireless.node11 typename "\"testwireless.Node\""
+par Wireless typename "\"testwireless.Wireless\""
+
